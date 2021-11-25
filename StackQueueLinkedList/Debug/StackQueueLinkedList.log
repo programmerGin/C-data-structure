@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (StackQueueLinkedList.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  StackLinkedList.cpp
+C:\Users\KSJ\source\repos\StackQueueLinkedList\StackLinkedList.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  StackQueueLinkedList.vcxproj -> C:\Users\KSJ\source\repos\StackQueueLinkedList\Debug\StackLinkedList.exe

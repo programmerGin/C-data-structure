@@ -1,0 +1,6 @@
+﻿  LinkedList.cpp
+C:\Users\KSJ\source\repos\LinkedList\Node.h(17,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Node *'
+C:\Users\KSJ\source\repos\LinkedList\Node.h(19,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Node *'
+C:\Users\KSJ\source\repos\LinkedList\Node.h(27,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Node *'
+C:\Users\KSJ\source\repos\LinkedList\LinkedList.h(68,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Node *'
+  LinkedList.vcxproj -> C:\Users\KSJ\source\repos\LinkedList\Debug\LinkedList.exe

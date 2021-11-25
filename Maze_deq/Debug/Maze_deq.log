@@ -1,0 +1,3 @@
+﻿  Maze_deq.cpp
+C:\Users\KSJ\source\repos\Maze_deq\Maze_deq.cpp(154,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Maze_deq.vcxproj -> C:\Users\KSJ\source\repos\Maze_deq\Debug\Maze_deq.exe

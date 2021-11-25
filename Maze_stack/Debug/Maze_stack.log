@@ -1,0 +1,6 @@
+﻿  Maze_stack.cpp
+C:\Users\KSJ\source\repos\Maze_stack\Maze_stack.cpp(61,133): warning C4566: character represented by universal-character-name '\u25FB' cannot be represented in the current code page (949)
+C:\Users\KSJ\source\repos\Maze_stack\Maze_stack.cpp(61,133): warning C4566: character represented by universal-character-name '\uFE0E' cannot be represented in the current code page (949)
+C:\Users\KSJ\source\repos\Maze_stack\Maze_stack.cpp(61,183): warning C4566: character represented by universal-character-name '\u25FC' cannot be represented in the current code page (949)
+C:\Users\KSJ\source\repos\Maze_stack\Maze_stack.cpp(61,183): warning C4566: character represented by universal-character-name '\uFE0E' cannot be represented in the current code page (949)
+  Maze_stack.vcxproj -> C:\Users\KSJ\source\repos\Maze_stack\Debug\Maze_stack.exe
